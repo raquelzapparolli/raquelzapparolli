@@ -1,6 +1,6 @@
 # Olá! Eu sou a Raquel Zapparolli 👋
 
-**Tecnóloga em Análise e Desenvolvimento de Sistemas pela UNINTER.**
+**Tecnóloga em Análise e Desenvolvimento de Sistemas e estudante de Engenharia de Software pela UNINTER.**
 
 Estou construindo minha trajetória em tecnologia, com interesse em desenvolvimento de software, análise de dados e interfaces. Busco oportunidades para aplicar meus conhecimentos, aprender com a equipe e contribuir com soluções úteis.
 
