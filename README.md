@@ -1,23 +1,26 @@
-<h1 align="center">Oi👋. Eu sou a Raquel Zapparolli</h1>
-<h3 align="center">Apaixonado em análise de dados, sistemas e programação</h3>
+# Olá! Eu sou a Raquel Zapparolli 👋
 
-- 🌱 Atualmente estou aprendendo **Python e Java Script**
+**Tecnóloga em Análise e Desenvolvimento de Sistemas pela UNINTER.**
 
-- 💬 Me pergunte sobre **Power BI, Excel**
+Estou construindo minha trajetória em tecnologia, com interesse em desenvolvimento de software, análise de dados e interfaces. Busco oportunidades para aplicar meus conhecimentos, aprender com a equipe e contribuir com soluções úteis.
 
-- 📫Você me acha através do e-mail **raquelzapparolliads@gmail.com**
+## Conhecimentos e estudos
 
-- 📄 Comecei minha experiência profissional atualmente, caso deseje verificar [linkedin.com/in/raquel-zapparolli-707920269](linkedin.com/in/raquel-zapparolli-707920269)
+- **Desenvolvimento web:** projetos com HTML, CSS e JavaScript.
+- **Em aprendizado:** Python e aprofundamento em lógica de programação.
+- **Dados:** Excel e Power BI.
+- **Interfaces:** prototipagem no Figma e conceitos de UI/UX.
+- **Projetos:** organização e compartilhamento de código no GitHub.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/raquel-zapparolli-707920269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/raquel-zapparolli-707920269" height="30" width="40" /></a>
-</p>
+## Projetos
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [Portfólio pessoal](https://github.com/raquelzapparolli/meu-site) | Site com minha apresentação, formação, projeto de interface e contatos. | HTML e CSS |
+| [Quiz de Matemática](https://github.com/raquelzapparolli/quiz-matematicas) | Quiz com perguntas de múltipla escolha, cronômetro e pontuação. | HTML, CSS e JavaScript |
+| [Smart Sip](https://github.com/raquelzapparolli/Smart-Sip) | Página demonstrativa de produtos para praticar desenvolvimento web. | HTML, CSS e JavaScript |
 
-<!---
-raquelzapparolli/raquelzapparolli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/raquelzapparolli/)
+- [E-mail](mailto:raquelzapparolliads@gmail.com)
