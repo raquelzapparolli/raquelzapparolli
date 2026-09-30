@@ -18,7 +18,6 @@ Estou construindo minha trajetória em tecnologia, com interesse em desenvolvime
 | --- | --- | --- |
 | [Portfólio pessoal](https://github.com/raquelzapparolli/meu-site) | Site com minha apresentação, formação, projeto de interface e contatos. | HTML e CSS |
 | [Quiz de Matemática](https://github.com/raquelzapparolli/quiz-matematicas) | Quiz com perguntas de múltipla escolha, cronômetro e pontuação. | HTML, CSS e JavaScript |
-| [Smart Sip](https://github.com/raquelzapparolli/Smart-Sip) | Página demonstrativa de produtos para praticar desenvolvimento web. | HTML, CSS e JavaScript |
 
 ## Contato
 
